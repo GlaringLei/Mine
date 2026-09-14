@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.local-tools/
+.pnpm-store/
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+*.pyc

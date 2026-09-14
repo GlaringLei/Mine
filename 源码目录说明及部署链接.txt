@@ -1,0 +1,5 @@
+public 目录下保存公开不打包的静态资源，script目录 保存前端页面所需要的脚本资源，
+
+src中是项目的核心代码，API获取后端资源，assets保存打包资源，component保存前端项目组件资源，router保存路由文件，stores保存状态管理文件，utils保存实用的工具方法，views保存页面组件
+
+作品在系统的布署链接： https://danoandholidays.github.io/Mine
